@@ -1,0 +1,18 @@
+div {
+    background-image: url("https://cbsnews1.cbsistatic.com/hub/i/2014/03/08/2653257f-848f-4e81-8db9-b9a8bfdcd00e/bruce-lee-big-boss-47.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 300px 30px 300px 200px white inset;
+}
+
+h4 {
+    color: whitesmoke;
+    display: inline;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    color: grey;
+
+}
