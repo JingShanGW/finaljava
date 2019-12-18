@@ -15,3 +15,10 @@ h1 {
     color: black;
 
 }
+.ACARD{
+    display:none;
+}
+
+.show{
+    display:show;
+}
